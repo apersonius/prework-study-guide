@@ -1,6 +1,8 @@
 # Prework Study Guide Webpage
 
-## Webpage Built to Store Prework Assignment and Notes
+## Description
+
+Study Guide made to store Prework assignment and notes
 
 ## Installation
 
